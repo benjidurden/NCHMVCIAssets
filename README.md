@@ -8,10 +8,10 @@ The MVCI Character Compendium (title TBD) is the de-facto resource for MVCI fram
 
 Intended tech stack is currently:
 
-*HTML
-*CSS
-*Javascript
-*MERN (MongoDB, *Express, React, and Node)
+*   HTML
+*   CSS
+*   Javascript
+*   MERN (MongoDB, *Express, React, and Node)
 
 *Express backend will have authentication for moderators. Mods will be able to access a changelog, which allows them to revert changes made by users.
 
